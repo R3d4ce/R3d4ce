@@ -10,6 +10,10 @@
 
 <h2>📺 My YouTube Videos (coming soon) </h2>
 
+
+
+<h2> Great Free resources</h2>
+
 - [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=35077s)
  
 <h2> 🤳 Connect with me:</h2>
