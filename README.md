@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Automating OSINT](https://github.com/R3d4ce/autosint)
-- [Basic yet fast singlular port scanner]
+- [Basic yet fast singlular port scanner](https://github.com/R3d4ce/pscanner)
 <h2> - Certifications</h2>
 
 - [Comptia's Security+](https://www.credly.com/badges/e2f203a7-263e-4bf2-9116-b4b1be174e09/public_url)
